@@ -1,7 +1,3 @@
-path <- "/Users/aroldtoubert/Downloads/serie_010768301_30052025"
-setwd(path)
-
-
 # Loading the data
 datafile <- "valeurs_mensuelles.csv"
 
